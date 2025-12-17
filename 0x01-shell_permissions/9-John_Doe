@@ -1,2 +1,2 @@
-./9-John_Doe
-ls -l hello
+#!/bin/bash
+chmod 735 hello
